@@ -1,0 +1,21 @@
+F:\vs\LIbrary Mnagement System\Debug\LIbrary Mnagement System.vcxprojAssemblyReference.cache
+F:\vs\LIbrary Mnagement System\Debug\LIbraryMnagementSystem.MyForm.resources
+F:\vs\LIbrary Mnagement System\Debug\LIbrary Mnagement System.vcxproj.GenerateResource.cache
+F:\vs\LIbrary Mnagement System\Debug\LIbraryMnagementSystem.exe
+F:\vs\LIbrary Mnagement System\Debug\LIbraryMnagementSystem.pdb
+F:\vs\LIbrary Mnagement System\Debug\LIbraryMnagementSystem.message.resources
+F:\vs\LIbrary Mnagement System\Debug\LIbraryMnagementSystem.validityform.resources
+F:\vs\LIbrary Mnagement System\LIbrary Mnagement System\Debug\LIbrary Mnagement System.vcxprojAssemblyReference.cache
+F:\vs\LIbrary Mnagement System\LIbrary Mnagement System\Debug\LIbraryMnagementSystem.message.resources
+F:\vs\LIbrary Mnagement System\LIbrary Mnagement System\Debug\LIbraryMnagementSystem.MyForm.resources
+F:\vs\LIbrary Mnagement System\LIbrary Mnagement System\Debug\LIbraryMnagementSystem.validityform.resources
+F:\vs\LIbrary Mnagement System\LIbrary Mnagement System\Debug\LIbrary Mnagement System.vcxproj.GenerateResource.cache
+F:\vs\LIbrary Mnagement System\LIbrary Mnagement System\Debug\LIbraryMnagementSystem.exe
+F:\vs\LIbrary Mnagement System\LIbrary Mnagement System\Debug\LIbraryMnagementSystem.pdb
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\Debug\LIbrary Mnagement System.vcxprojAssemblyReference.cache
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\Debug\LIbraryMnagementSystem.message.resources
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\Debug\LIbraryMnagementSystem.MyForm.resources
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\Debug\LIbraryMnagementSystem.validityform.resources
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\Debug\LIbrary Mnagement System.vcxproj.GenerateResource.cache
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\Debug\LIbraryMnagementSystem.exe
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\Debug\LIbraryMnagementSystem.pdb

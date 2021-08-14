@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (LIbrary Mnagement System.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyForm.cpp
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(113,35): warning C4018: '<': signed/unsigned mismatch
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(143,35): warning C4018: '<': signed/unsigned mismatch
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(174,35): warning C4018: '<': signed/unsigned mismatch
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(193,31): warning C4018: '<': signed/unsigned mismatch
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(232,39): warning C4018: '<': signed/unsigned mismatch
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(255,35): warning C4018: '<': signed/unsigned mismatch
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(322,35): warning C4018: '<': signed/unsigned mismatch
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(355,35): warning C4018: '<': signed/unsigned mismatch
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(384,35): warning C4018: '<': signed/unsigned mismatch
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(429,35): warning C4018: '<': signed/unsigned mismatch
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(5431,43): warning C4101: 'e': unreferenced local variable
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(6822,23): warning C4018: '<': signed/unsigned mismatch
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(6838,23): warning C4018: '<': signed/unsigned mismatch
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(6875,23): warning C4018: '<': signed/unsigned mismatch
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(6893,27): warning C4018: '<': signed/unsigned mismatch
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(6940,23): warning C4018: '<': signed/unsigned mismatch
+F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\MyForm.h(6955,23): warning C4018: '<': signed/unsigned mismatch
+  articles.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  LIbrary Mnagement System.vcxproj -> F:\vs\LIbrary Mnagement System\Copy of LIbrary Mnagement System\LIbrary Mnagement System\Debug\LIbraryMnagementSystem.exe
